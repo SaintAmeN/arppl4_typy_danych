@@ -1,0 +1,33 @@
+
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(û¥øÔûÿÿÿÿ
+N
+java:S1481",Remove this unused "zmienna" local variable.(Íä¬¨úÿÿÿÿ8¼ªîŠ‡0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ä‚»
+>
+java:S1125"(Remove the unnecessary boolean literals.(Ä‚»
+a
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "=="(Ä‚»
+S	java:S106"9Replace this use of System.out or System.err by a logger.(–ÀÔÌøÿÿÿÿ
+C
+java:S1125"(Remove the unnecessary boolean literals.(–ÀÔÌøÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(ğ‰Õî
+=
+java:S1125	"'Remove the unnecessary boolean literal.(ğ‰Õî
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(±€†ïÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ª‡ïğùÿÿÿÿ
+K
+java:S1940")Use the opposite operator ("<=") instead.(ª‡ïğùÿÿÿÿ8Óõ€‹‡0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ïåşúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÎÊÀúÿÿÿÿ
+f
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "=="(ÎÊÀúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(–‰Ìá
+S	java:S106"9Replace this use of System.out or System.err by a logger.(£’‹ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(üü”Ãûÿÿÿÿ
+`
+java:S1764"ECorrect one of the identical sub-expressions on both sides of equals.(üü”Ãûÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(û¥øÔûÿÿÿÿ8¦Ö‹‡0
+f
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "=="(û¥øÔûÿÿÿÿ
